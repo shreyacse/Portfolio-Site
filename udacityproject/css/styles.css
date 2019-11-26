@@ -1,0 +1,44 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #7d97ad;
+    font-weight: bold;
+    font-size: 35px;
+    width: 100%;
+}
+
+.title-super {
+    font-size: 60px;
+    font-family: "Lato", sans-serif;
+    max-width: 100%;
+}
+
+.text-thin {
+    font-weight: 100;
+    max-width: 100%;
+}
+
+.title-logo {
+    margin-top: 30px;
+    max-width: 100%;
+    height: auto;
+}
+
+.title-second {
+    font-weight: bold;
+}
+
+.text-uppercase {
+    font-size: 34px;
+    font-weight: bold;
+    max-width: 100%;
+}
+
+.project-link {
+    font-weight: bold;
+}
+
+
